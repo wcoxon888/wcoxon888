@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...IT stuff
 - 🌱 I’m currently learning ...IT Stuff
 - 💞️ I’m looking to collaborate on ...anything to do with IT
-- 📫 How to reach me ... emal willcoxon8@gmail.com
+- 📫 How to reach me ... email willcoxon8@gmail.com
 
 <!---
 wcoxon888/wcoxon888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
